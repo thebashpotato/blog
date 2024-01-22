@@ -1,4 +1,4 @@
-[module]
-  [[module.imports]]
-    path = "gitlab.com/jmfergeau/hugo.386"
-theme = '386'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Matt Williams Blog'
+theme = 'hugo.386'

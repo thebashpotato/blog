@@ -1,4 +1,1 @@
-baseURL = 'https://thebashpotato.github.io/blog/'
-languageCode = 'en-us'
-title = 'Matt Williams Blog'
 theme = 'hugo.386'
